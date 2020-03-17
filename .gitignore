@@ -1,2 +1,2 @@
-common/
-!common/src/
+packages/commmon/
+!packages/commmon/src/
